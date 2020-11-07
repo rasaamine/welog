@@ -1,0 +1,18 @@
+---
+title: "print post"
+author: "rasa am"
+date: 2015-07-23T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+```{r echo=FALSE, message=TRUE, warning=FALSE}
+print("sag to roohet")
+print(3+5)
+```
+
+hgfgg hlkjl;j;l
